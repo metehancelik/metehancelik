@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=metehancelik&theme=gotham&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=metehancelik)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=metehancelik&layout=compact)
 <!--
 **metehancelik/metehancelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
