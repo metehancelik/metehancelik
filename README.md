@@ -11,7 +11,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shinokada&theme=neon-palenight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=metehancelik&theme=neon-palenight&hide_border=true)
 
 
 
