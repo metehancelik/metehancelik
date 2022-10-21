@@ -3,9 +3,9 @@
 ![Meteahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=metehancelik&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metehancelik&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metehancelik&theme=tokyonight&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=metehancelik&theme=neon-palenight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=metehancelik&theme=tokyonight&hide_border=true)
 
 
 
