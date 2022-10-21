@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
 
-<h2 align="center">Hi there 👋, I'm Metehan!</h2>
-
-
 ![Meteahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=metehancelik&show_icons=true&theme=tokyonight)
 
 
